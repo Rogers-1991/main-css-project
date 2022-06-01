@@ -306,6 +306,9 @@ html {
   }
   
   .section4 .section4-content .card {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
     margin: 0 15px;
     width: calc(80% - 20px);
     background: #3882f6;
